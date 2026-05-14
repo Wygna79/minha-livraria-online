@@ -3,3 +3,4 @@
 	madeira, tamanho, quantidade, preço).
 	2. O sistema deve permitir a edição e exclusão de produtos
 	cadastrados.
+	RF10 - O sistema deve calcular frete via CEP.
